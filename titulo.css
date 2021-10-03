@@ -1,0 +1,39 @@
+.parrafo1 {
+    color: red;
+    
+    /*
+        dotted
+        dashed
+        solid
+        double
+        groove
+        ridge
+        inset
+        outsed
+        none
+        hidden
+    */
+    border-style: double;       
+    border-color: blue;
+    border-radius: 5px;
+    border-width: 1px;
+
+
+}
+
+#titulo2 {
+
+    background-color: rgba(25, 0, 0, 0);
+    opacity: 0.6;
+}
+
+
+#tituloprincipal {
+
+    
+    padding: 30px 25px 20px 15px;
+    border: solid 1px black;
+    height: 100px;
+    width: 100px;
+    overflow: hidden;
+}
